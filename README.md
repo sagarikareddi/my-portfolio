@@ -1,2 +1,3 @@
-# my-portfolio
-It compiles of academic and professional materials that exemplifies skills,qualifications,education,training,projects and experiences. 
+# Portfolio
+
+Deployed Link - https://sagarikareddi.github.io/portfolio/index.html
